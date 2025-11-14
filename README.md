@@ -1,6 +1,6 @@
 # To-Do-List-Web-App
 Evolve your productivity with this elegant, responsive To-Do list. Features persistent data, multiple themes, daily stats, and advanced browser API integration (Voice, Notifications).
-# ✨ Lux To-Do List Web App
+# ✨ To-Do List Web App
 
 A modern, visually stunning, and feature-rich To-Do List application built entirely with **Vanilla JavaScript, HTML, and CSS**. This project demonstrates advanced front-end capabilities, persistent data storage, and integration with modern browser APIs, all wrapped in a luxurious, responsive design.
 
@@ -15,7 +15,7 @@ The application is crafted with a focus on elegance and user experience:
 
 ## 🚀 Features
 
-Beyond standard task management, Lux To-Do offers a rich set of advanced functionalities:
+Beyond standard task management, To-Do offers a rich set of advanced functionalities:
 
 ### Core Management
 * ✅ **CRUD Operations:** Easily Add, Edit, Delete, and Mark tasks as complete.
